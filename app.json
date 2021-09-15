@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "file-comp",
+    "slug": "file-comp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "file-comp"
+}
